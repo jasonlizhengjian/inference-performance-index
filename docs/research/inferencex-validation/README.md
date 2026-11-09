@@ -1,5 +1,9 @@
 # InferenceX versus modeled SOL — 19 October 2026
 
+We thank [SemiAnalysis](https://semianalysis.com/) for the
+[InferenceX](https://inferencex.semianalysis.com/) benchmark data used in this
+validation study. The comparisons and interpretations are our own.
+
 **Benchmark observations: 19 October 2026. Modeled hardware: 15 October base plus the 20 October Rubin revision, refreshed 29 October.** Rubin uses 19.2 TB/s HBM and 1.5 TB/s outbound NVLink. All five admitted Rubin submitted-layout recipes were retimed with the pinned engine; non-Rubin recipes and benchmark observations are unchanged. This is separate from the launch report’s October 27 chart. [Evidence levels](../../METHODOLOGY.md#what-the-evidence-supports) | [Snapshot guide](../../SNAPSHOTS.md) | [Pre-refresh archive](../archives/2026-10-19-pre-rubin-refresh/README.md).
 
 [Historical hosted comparison](https://inferencex-sol-validation.epoch-3293.chatgpt.site) ·

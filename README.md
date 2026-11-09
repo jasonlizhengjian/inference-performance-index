@@ -264,3 +264,9 @@ current setup guidance. See `THIRD_PARTY_NOTICES.md` for licensing scope.
 
 Public-repository safety rules are recorded in [AGENTS.md](AGENTS.md). Publication
 must exclude secrets, private traces, credentials and unrelated workspace files.
+
+## Acknowledgments
+
+We thank [SemiAnalysis](https://semianalysis.com/) for the
+[InferenceX](https://inferencex.semianalysis.com/) benchmark data used to validate
+our modeled inference performance. The comparisons and interpretations are our own.
